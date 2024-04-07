@@ -19,7 +19,7 @@ function myFunction() {
     } 
     else if (name == stdName2 || password == stdPass2) 
     {
-        window.location="index.html"
+        window.location="home.html"
         alert("login success")
         
     } 
